@@ -1,0 +1,4 @@
+step:0 crete table and change databse name etc..
+step:1 create page as index1 in this select templete as index1
+step:2 create page as data in this select templete as data
+step:3 change all url in data.php,index1. 
